@@ -13,7 +13,7 @@
 1. **Скачайте или склонируйте репозиторий:**
 
     ```bash
-    git clone https://github.com/username/mouse-poll-adjuster.git
+    git clone https://github.com/teafear/linux_pool_mouse.git
     cd mouse-poll-adjuster
     ```
 
